@@ -12,11 +12,25 @@ namespace MinirechnerTFO
             // Main
 
 
-
+            Addieren(Zahl1, Zahl2);
 
 
 
 
         } // Ende des Programmes
+
+        public static int Addieren(int Zahl1, int Zahl2)
+        {
+            int Ergebnis = Zahl1 + Zahl2;
+
+            Console.WriteLine(Ergebnis);
+
+
+        } // Addieren
+
+
+
+
+
     }
 }
