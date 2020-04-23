@@ -9,6 +9,14 @@ namespace MinirechnerTFO
     {
         static void Main(string[] args)
         {
-        }
+            // Main
+
+
+
+
+
+
+
+        } // Ende des Programmes
     }
 }
